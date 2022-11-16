@@ -1,4 +1,4 @@
-- Hi, I’m @n30f0x, a cunning little fox =^-^=
+- Hi, I’m @n30f0x (previously @br4wl0wl), a cunning little fox =^-^=
 
 I love to hack devices, automate things, play games and to chill in my lab.
 
